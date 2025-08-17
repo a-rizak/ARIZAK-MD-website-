@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ARIZAK-MD - Powerful WhatsApp Bot">
+  <meta name="keywords" content="ARIZAK-MD, WhatsApp Bot, Baileys, AI Bot">
+  <meta name="author" content="ARIZAK-MD">
+  <title>ARIZAK-MD WhatsApp Bot</title>
+  <link rel="icon" href="media/favicon.png" type="image/png">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: #f8fafc;
+      text-align: center;
+    }
+
+    header {
+      padding: 60px 20px;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+      color: #38bdf8;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 25px;
+      background: #38bdf8;
+      color: #0f172a;
+      font-size: 1rem;
+      font-weight: bold;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background: #0ea5e9;
+      color: #fff;
+    }
+
+    section {
+      padding: 40px 20px;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding: 20px;
+      background: #0f172a;
+      font-size: 0.9rem;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🤖 ARIZAK-MD</h1>
+    <p>The Most Advanced WhatsApp Bot for Everyone 🚀</p>
+    <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z" class="btn">Join Our WhatsApp Channel</a>
+  </header>
+
+  <section>
+    <h2>✨ Features</h2>
+    <p>✔️ AI Chat with GPT <br> ✔️ Media Downloader <br> ✔️ Group Management <br> ✔️ Fun Commands & More!</p>
+  </section>
+
+  <section>
+    <h2>📌 About ARIZAK-MD</h2>
+    <p>ARIZAK-MD is a powerful WhatsApp bot built with the latest technology. 
+       It’s designed to make your WhatsApp experience smarter, faster, and more fun.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 ARIZAK-MD | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
