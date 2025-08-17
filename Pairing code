@@ -1,0 +1,17 @@
+import makeWASocket, { useMultiFileAuthState } from "@whiskeysockets/baileys"
+
+async function startBot() {
+  // save login session
+  const { state, saveCreds } = await useMultiFileAuthState("auth_info")
+
+  // create WhatsApp connection
+  const sock = makeWASocket({
+    auth: state,
+    printQRInTerminal: true // <-- shows QR or pairing code in terminal
+  })
+
+  // save session after pairing
+  sock.ev.on("creds.update", saveCreds)
+}
+
+startBot()
