@@ -1,0 +1,21 @@
+{
+  "name": "arizak-md",
+  "version": "1.0.0",
+  "description": "ARIZAK-MD WhatsApp Bot powered by ARIZAK-MD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "arizak-md"
+  ],
+  "author": "ARIZAK",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.6",
+    "pino": "^9.0.0"
+  }
+}
