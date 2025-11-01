@@ -34,11 +34,10 @@
 
 ---
 
-### 🔐 ➌ PAIR SESSION CODE
+### 🔐 ➌ PAIR SESSION_ID 
 
-[![](https://img.shields.io/badge/🔐_PAIR_CODE_SESSION-8A2BE2?style=for-the-badge&logo=codepen)](https://arizak-md-pair.onrender.com)
+---  <a href="https://glensession-6app.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
 
----
 
 ### 📸 ➍ QR SESSION ID
 
